@@ -5,5 +5,6 @@ public class Main {
 		System.out.println(cmmnd.toString());
 		System.out.println(orca.toString());
 		Whale hero = new Whale("true");
+		System.out.println(hero.toString());
 	}
 }
